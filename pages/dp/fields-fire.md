@@ -2,8 +2,10 @@
 title: 'Fields of Fire'
 date: '2005-06-13'
 author: bob-spiegelman
-permalink: /dp/fields-fire/
-redirect_from: /dp/popup01.html
+permalink: /fields-fire/
+redirect_from:
+  - /dp/popup01.html
+  - /dp/fields-fire/
 ---
 ## Fields of Fire: The Sullivan Clinton Campaign, Then and Now
 ### For Readers, Travelers & Teachers
