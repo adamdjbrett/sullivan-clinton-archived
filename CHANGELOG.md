@@ -10,6 +10,7 @@
   - Feed
   - Privacy Policy
   - humans.txt
+  - find obj89 original information
 
 ## Marked for deletion
   - /graphics/mappromospring.swf - dated and grainy
