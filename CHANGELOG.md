@@ -11,6 +11,13 @@
   - Privacy Policy
   - humans.txt
   - find obj89 original information
+  - find obj63
+  - find obj77 and get not stretched image
+    - obj77 pano
+  - what to do about pano obj74  
+  - find obj107
+  - remove obj1
+  - fix obj80
 
 ## Marked for deletion
   - /graphics/mappromospring.swf - dated and grainy
